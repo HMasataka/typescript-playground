@@ -1,0 +1,8 @@
+= TypeScript Playground
+
+== Run
+
+[source, bash]
+----
+deno run main.ts
+----
